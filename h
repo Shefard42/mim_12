@@ -1,0 +1,29 @@
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+
+    <header class="cabecalho"></header>
+    <img class="cabecalho-imagem" src="posters-astronomia.jpg">
+    <ul:class="cabecalho-lista">
+        <li class="cabecalho-lista-item">Estudantes</li>
+        <li class="cabecalho-lista=item">Escola</li>
+    </ul>
+    </header>
+
+    <section class="escola">
+        <divc class="escola-div-conteudo">
+            <h2 class="escola-titulo">sobre a escola</h2>
+            <p class="escola-texto-um">lorem ipsum</p>
+            <p class="escola-texto-dois">lorem ipsum</p>
+
+        </div>
+        <img class="escola-imagem" src=>
+    </section>
+        </body>
+</html>
