@@ -12,7 +12,7 @@
 <body>
 
     <header class="cabecalho"></header>
-    <img class="cabecalho-imagem" src="posters-astronomia.jpg">
+    <img class="cabecalho-imagem" src="belaya_zima.jpeg">
     <ul:class="cabecalho-lista">
         <li class="cabecalho-lista-item">Estudantes</li>
         <li class="cabecalho-lista=item">Escola</li>
@@ -26,7 +26,7 @@
                 <p class="escola-texto-dois">lorem ipsum</p>
 
                 </div>
-                <img class="escola-imagem" src=>
+                <img class="escola-imagem" src=belaya_zima.jpeg>
         </section>
 </body>
 
